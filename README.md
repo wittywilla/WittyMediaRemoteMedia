@@ -56,6 +56,8 @@ follows the module rules of its time. Today that's module API 5, the only one th
 an `sdui.json` and an `integration.json` (the server's
 [docs/MODULES-API5.md](https://github.com/wittywilla/WittyMediaServer/blob/master/docs/MODULES-API5.md)).
 
+**Working on a Mac?** Start with WittyMediaServer's [MAC-START-HERE.md](https://github.com/wittywilla/WittyMediaServer/blob/v0.8.1-alpha/MAC-START-HERE.md): what to install, what to clone, and every Mac task in order: this module's is item 7.1 (wittywilla/WittyMediaServer#571).
+
 ## Licence
 
 Licensed under AGPL-3.0-or-later: see [LICENSE](LICENSE) and [NOTICE](NOTICE).
